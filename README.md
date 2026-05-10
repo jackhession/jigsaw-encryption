@@ -2,6 +2,9 @@
 
 I wrote this to move encrypted zip data through audio files for storage/transfer experiments. It’s not complicated, just layered enough to be annoying.
 
+based on code from previous repos, 
+- https://github.com/jackhession/AES_Encryption
+- https://github.com/jackhession/ohWrD-Encryption (dont use this one it's stupid)
 ## What it does
 
 - Takes a `.zip` file
